@@ -8,3 +8,6 @@ witg some illustrations, help to understand "_propagation d'une onde de choc en 
 - Disscussion with Renaud 10:00 to 11:40 
 > Give me two paper in Nuclear Boiling and explain the starting of my work by reproduct Bruno's work, _on the role of void_, 
 the influence between fragment size and explosion strength. the saturation of explosion strength with reduce of fragment size
+
+- Find the lecture of Landau for hydrodynamic and shock wave 13:00 to 15:00 
+- Continue to read the notes of G.Berthoud and read the beginning of Shock Wave in Landau's lecture book for fluid mecanique. 15:00 to 18:00 
